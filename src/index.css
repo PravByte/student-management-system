@@ -1,0 +1,45 @@
+@import "tailwindcss";
+.home-container {
+  background-image: url("./assets/ai-generated-8963817_1280.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.content {
+  text-align: center;
+}
+
+.con {
+    background-image: url("./assets/cartoon-1297710_1280.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .list {
+    background-image: url("./assets/woman-8188169_1280.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
